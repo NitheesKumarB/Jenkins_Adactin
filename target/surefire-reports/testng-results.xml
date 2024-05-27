@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-27T15:51:52 IST" name="Surefire suite" finished-at="2024-05-27T15:52:22 IST" duration-ms="30495">
+    <groups>
+    </groups>
+    <test started-at="2024-05-27T15:51:52 IST" name="Surefire test" finished-at="2024-05-27T15:52:22 IST" duration-ms="30495">
+      <class name="com.adactin.Adactin">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.adactin.Adactin@3c73951]" started-at="2024-05-27T15:51:52 IST" name="browserLaunch" finished-at="2024-05-27T15:51:54 IST" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:com.adactin.Adactin@3c73951]" started-at="2024-05-27T15:51:54 IST" name="getURL" finished-at="2024-05-27T15:51:55 IST" duration-ms="1754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.adactin.Adactin@3c73951]" started-at="2024-05-27T15:51:55 IST" name="login" finished-at="2024-05-27T15:51:56 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchAndBookHotel()[pri:0, instance:com.adactin.Adactin@3c73951]" started-at="2024-05-27T15:51:56 IST" name="searchAndBookHotel" finished-at="2024-05-27T15:52:21 IST" duration-ms="24739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndBookHotel -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.adactin.Adactin@3c73951]" started-at="2024-05-27T15:52:21 IST" name="browserClose" finished-at="2024-05-27T15:52:22 IST" duration-ms="1425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.adactin.Adactin -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
